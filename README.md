@@ -1,4 +1,10 @@
-# PWA Application: JATE or Just Another Text Editor 
+# PWA Application: J A T E 
+       _____  ____________
+      / /   |/_  __/ ____/
+ __  / / /| | / / / __/   
+/ /_/ / ___ |/ / / /___   
+ ____/_/  |_/_/ /_____/   
+just another text editor
 
 ## Description
 JATE is 'Just Another Text Editor' that runs in the browser. The app is a single-page application that meets the PWA criteria that features a number of data persistence techniques that serve as redundancies in case one of the options is not supported by the browser. The application also functions offline.
