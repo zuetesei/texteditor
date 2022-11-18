@@ -1,5 +1,9 @@
 # PWA Application: J A T E 
 
+<img width="1050" alt="Screen Shot 2022-11-17 at 9 32 30 PM" src="https://user-images.githubusercontent.com/107950028/202628161-f65ed7ce-eec8-43d1-ad18-7b2717c1d589.png">
+<img width="774" alt="Screen Shot 2022-11-17 at 9 32 37 PM" src="https://user-images.githubusercontent.com/107950028/202628168-2045fbf7-cb67-4409-a8b1-fea85a72d00b.png">
+
+
 ## Description
 JATE is 'Just Another Text Editor' that runs in the browser. The app is a single-page application that meets the PWA criteria that features a number of data persistence techniques that serve as redundancies in case one of the options is not supported by the browser. The application also functions offline.
 
