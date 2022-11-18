@@ -47,6 +47,7 @@ https://lit-ravine-86208.herokuapp.com/
 
 ## Contribution
 Zuleika Tesei (https://github.com/zuetesei) <br>
+With the help of TA Dom Stephek! 
 
 ## License
 This project was created by Zuleika Tesei as part of the curriculum for the UC Davis Coding Boot Camp and Trilogy Education Services.
