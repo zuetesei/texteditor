@@ -1,10 +1,4 @@
 # PWA Application: J A T E 
-       _____  ____________
-      / /   |/_  __/ ____/
- __  / / /| | / / / __/   
-/ /_/ / ___ |/ / / /___   
- ____/_/  |_/_/ /_____/   
-just another text editor
 
 ## Description
 JATE is 'Just Another Text Editor' that runs in the browser. The app is a single-page application that meets the PWA criteria that features a number of data persistence techniques that serve as redundancies in case one of the options is not supported by the browser. The application also functions offline.
@@ -12,7 +6,7 @@ JATE is 'Just Another Text Editor' that runs in the browser. The app is a single
 ## Table of Contents
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Video Walkthrough](#video-walkthrough)
+- [Link](#link)
 - [Contribution](#contribution)
 - [License](#license)
 
@@ -48,7 +42,8 @@ THEN I should have my static assets precached upon loading along with subsequent
 WHEN I deploy to Heroku <br>
 THEN I should have proper build scripts for a webpack application <br>
 
-## Video Walkthrough
+## Link
+https://lit-ravine-86208.herokuapp.com/
 
 ## Contribution
 Zuleika Tesei (https://github.com/zuetesei) <br>
